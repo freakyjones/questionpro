@@ -1,0 +1,20 @@
+header{
+    font-weight: 300;
+    background: linear-gradient(180deg, #2E3BB5 0%, rgba(128, 21, 21, 0.43) 100%);
+    border-radius: 0px 0px 50px 50px;
+    padding: 3em;
+}
+#container{
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+#container h1{
+    font-weight: 200;
+    display: inline-block;
+    border-bottom: 4px solid #fff;
+    letter-spacing: 0.1em;
+    background: -webkit-linear-gradient(#FB0000  ,#1C020E  ,#6329AE  );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
